@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 ### Welcome to my Github profile.
 ### My name is Tais and I'm a Data Science Student
