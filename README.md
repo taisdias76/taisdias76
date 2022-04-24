@@ -1,19 +1,29 @@
-<!--## Hi there 👋
+# Olá, Devs 👋
 
-### Welcome to my Github profile.
-### My name is Tais and I'm a Data Science Student
+### Meu nome é Tais, moro em Bauru e sou aluna de Ciências de Dados pela Univesp. Iniciei na área de Tecnologia através do curso Técnico em Informática e atualmente trabalho como Help Desk e nesta experiência adquiri bastante conhecimento em Linux, mas atualmente procuro oportunidades e colaboração em projetos relacionados a ciência de dados. 
 
-<!--
-**taisdias76/taisdias76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82185476/164954677-10f531f3-fa48-4b6a-b730-694032f286d1.png" width="200" height="200" />
+</p>
 
-Here are some ideas to get you started:
+__________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias e Ferramentas:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
+
+__________________________________________________________________________________________________________________________________________________________________
+
+#### Contatos:
+  
+[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tais-d-carvalho/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/taisdcarvalho/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/taisdcarvalho)
+
+__________________________________________________________________________________________________________________________________________________________________
+
+<div>
+<a href="https://github.com/taisdias76">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisdias76&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taisdias76&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
