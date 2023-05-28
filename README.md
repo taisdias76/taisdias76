@@ -1,6 +1,6 @@
 # Olá, Devs 👋
 
-### Meu nome é Tais, moro em Bauru e sou aluna de Ciências de Dados pela Univesp. Iniciei na área de Tecnologia através do curso Técnico em Informática e atualmente trabalho como Help Desk e nesta experiência adquiri bastante conhecimento em Linux, mas atualmente procuro oportunidades e colaboração em projetos relacionados a programação e ciência de dados. 
+### Meu nome é Tais, moro em Bauru e sou aluna de Ciências de Dados pela Univesp. Iniciei na área de Tecnologia através do curso Técnico em Informática e atualmente trabalho como Desenvolvedora Java e nesta experiência adquiri bastante conhecimento, mas atualmente procuro oportunidades e colaboração em projetos relacionados a Análise/Ciência de dados. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82185476/164954677-10f531f3-fa48-4b6a-b730-694032f286d1.png" width="200" height="200" />
