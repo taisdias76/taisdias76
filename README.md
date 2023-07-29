@@ -1,6 +1,6 @@
 # Hello! 👋
 
-### My name is Tais, and I am passionate about Information Technology. I began my career as a Technical Support Specialist, where I gained experience in providing technical support and assisting in creating documentation for end-users and my support team. Additionally, I had the opportunity to conduct technical training, sharing knowledge and contributing to the team's skill development.
+### My name is Tais, and I am passionate about Information Technology. I began my career as a Technical Support Specialist, where I gained experience in providing technical support and assisting in creating documentation for end-users and my support team.
 
 ### Currently, I am working as a Java Developer, diving deeper into the world of programming and contributing to innovative solutions. This journey into software development has been amazing, allowing me to grow professionally and face new technological challenges.
 
