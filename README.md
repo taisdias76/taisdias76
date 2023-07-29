@@ -1,6 +1,10 @@
-# Olá, Devs 👋
+# Hello! 👋
 
-### Meu nome é Tais, moro em Bauru e sou aluna de Ciências de Dados pela Univesp. Iniciei na área de Tecnologia através do curso Técnico em Informática e atualmente trabalho como Desenvolvedora Java e nesta experiência adquiri bastante conhecimento, mas atualmente procuro oportunidades e colaboração em projetos relacionados a Análise/Ciência de dados. 
+### My name is Tais, and I am passionate about Information Technology. I began my career as a Technical Support Specialist, where I gained experience in providing technical support and assisting in creating documentation for end-users and my support team. Additionally, I had the opportunity to conduct technical training, sharing knowledge and contributing to the team's skill development.
+
+### Currently, I am working as a Java Developer, diving deeper into the world of programming and contributing to innovative solutions. This journey into software development has been amazing, allowing me to grow professionally and face new technological challenges.
+
+### Alongside my work, I am pursuing a degree in Data Science, which provides me with a solid and comprehensive knowledge as a data professional. I have a great interest in exploring valuable insights from data and applying advanced analysis and machine learning techniques to solve real-world problems.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82185476/164954677-10f531f3-fa48-4b6a-b730-694032f286d1.png" width="200" height="200" />
