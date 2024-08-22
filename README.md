@@ -1,6 +1,6 @@
 # Olá! 👋
 
-### Meu nome é Tais, moro em Bauru e sou aluna de Ciências de Dados pela Univesp. Iniciei na área de Tecnologia através do curso Técnico em Informática e atualmente trabalho como Desenvolvedora Java e nesta experiência adquiri bastante conhecimento, mas atualmente procuro oportunidades e colaboração em projetos relacionados a Análise/Ciência de dados. 
+### Sou desenvolvedora Java e Cientista de Dados em formação na UNIVESP, com paixão por resolver problemas complexos através de análises de dados e aprendizado de máquina. Tenho experiência em Java, Python, SQL e ferramentas como PowerBI e Tableau. Atualmente, busco oportunidades para aplicar minhas habilidades técnicas em projetos desafiadores e colaborativos. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82185476/164954677-10f531f3-fa48-4b6a-b730-694032f286d1.png" width="200" height="200" />
